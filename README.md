@@ -8,4 +8,4 @@ Some basic rules:
 
 1. All exercises are describe in README.md file. 
 2. each exercise is located in separated folder (there are often more that one file inside).
-3. Each exercise name consists of exXXXXX-desc where ex => exercise, XXXXX => number of ex, desc => short description
+3. Each exercise name consists of ex-XXXXX-desc where ex => exercise, XXXXX => number of ex, desc => short description
