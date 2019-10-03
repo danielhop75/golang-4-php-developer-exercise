@@ -1,0 +1,4 @@
+Under windows f.e. under command line cmd 
+curl.exe -d "{\"id\":\"1\",\"fname\":\"David\",\"sname\":\"Smith\"}" -H "Content-Type: application/json" -X POST "http://localhost:8080/jsonconsume"
+
+
